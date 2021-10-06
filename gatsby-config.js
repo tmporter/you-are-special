@@ -8,4 +8,4 @@ module.exports = {
   /* Your site config here */
   plugins: [],
   pathPrefix: "/you-are-special",
-}
+};

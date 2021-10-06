@@ -1,5 +1,7 @@
-import React from "react"
+import React from "react";
+import Terminal from "../components/Terminal";
+import "./index.css";
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Terminal />;
 }
